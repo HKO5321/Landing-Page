@@ -1,0 +1,42 @@
+.Head1 {
+    font-size: 300px;
+    margin-top: 500px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-right: 500px;
+    margin-left: 100px;
+
+    
+}
+
+body {
+    background-color: #080808f1
+}
+
+.shit {
+    color: rgb(255, 255, 255);
+}
+.this {
+    color:dimgrey;
+}
+
+.preview {
+    width: 2300px;
+    margin-top: 300px;
+    vertical-align: top;
+    margin-top: 100px;
+
+}
+
+.subtext {
+    font-size: 100px;
+    color: rgb(73, 77, 67);
+    margin-left: 3cqi;
+  
+}
+
+.rm {
+    font-size: 100px;
+    color: aliceblue;
+
+}
